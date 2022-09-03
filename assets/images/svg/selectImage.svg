@@ -1,0 +1,5 @@
+<svg id="Component_17_2" data-name="Component 17 – 2" xmlns="http://www.w3.org/2000/svg" width="67" height="71" viewBox="0 0 67 71">
+  <path id="Icon_awesome-user-circle" data-name="Icon awesome-user-circle" d="M31,1A31,31,0,1,0,62,32,30.995,30.995,0,0,0,31,1Zm0,12A11,11,0,1,1,20,24,11,11,0,0,1,31,13Zm0,43a23.953,23.953,0,0,1-18.312-8.525A13.937,13.937,0,0,1,25,40a3.058,3.058,0,0,1,.888.138A16.55,16.55,0,0,0,31,41a16.487,16.487,0,0,0,5.112-.862A3.058,3.058,0,0,1,37,40a13.937,13.937,0,0,1,12.313,7.475A23.953,23.953,0,0,1,31,56Z" transform="translate(0 -1)"/>
+  <ellipse id="Ellipse_11" data-name="Ellipse 11" cx="15.5" cy="15" rx="15.5" ry="15" transform="translate(36 41)" fill="#44cf3a"/>
+  <path id="Icon_ionic-md-add" data-name="Icon ionic-md-add" d="M12.25,7.917H7.917V12.25H6.583V7.917H2.25V6.583H6.583V2.25H7.917V6.583H12.25Z" transform="translate(44.25 48.75)" fill="#f5f4f4"/>
+</svg>
